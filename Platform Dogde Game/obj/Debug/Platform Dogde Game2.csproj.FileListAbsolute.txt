@@ -1,10 +1,10 @@
 C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\bin\Debug\Platform Dogde Game.exe.config
 C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\bin\Debug\Platform Dogde Game.exe
 C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\bin\Debug\Platform Dogde Game.pdb
-C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\obj\Debug\Platform Dogde Game.csproj.AssemblyReference.cache
+C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\obj\Debug\Platform Dogde Game2.csproj.AssemblyReference.cache
+C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\obj\Debug\Platform_Dogde_Game.PlatGame.resources
 C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\obj\Debug\Platform_Dogde_Game.Properties.Resources.resources
-C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\obj\Debug\Platform Dogde Game.csproj.GenerateResource.cache
-C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\obj\Debug\Platform Dogde Game.csproj.CoreCompileInputs.cache
+C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\obj\Debug\Platform Dogde Game2.csproj.GenerateResource.cache
+C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\obj\Debug\Platform Dogde Game2.csproj.CoreCompileInputs.cache
 C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\obj\Debug\Platform Dogde Game.exe
 C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\obj\Debug\Platform Dogde Game.pdb
-C:\Users\hinds\OneDrive\Desktop\Platform Dogde Game\Platform Dogde Game\obj\Debug\Platform_Dogde_Game.PlatGame.resources
