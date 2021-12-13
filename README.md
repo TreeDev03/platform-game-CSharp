@@ -1,3 +1,3 @@
-# Platform_Game-CSharp
+# Platform-Game-CSharp
 
 Fun game to pass time!!
