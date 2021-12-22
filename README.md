@@ -1,7 +1,7 @@
 # Platform-Game-CSharp
 
 Fun game to pass time!!<br>
-Made using <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">C#</a> and <a href="https://visualstudio.microsoft.com/">Visual Studio</a>
+Made using <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">C#</a> and <a href="https://visualstudio.microsoft.com/">Visual Studio.</a>
 
 # How to Play
 Below is the game file press run away!<br>
